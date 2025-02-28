@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('Поздравляю Тебя Мамочка с 8 Марта!').split('')
+    const titles = ('С 8 Мартом Мама!💖').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
